@@ -32,3 +32,6 @@ C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\calculator_tp_lab_1\obj\Release
 C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\calculator_tp_lab_1\obj\Release\calculator_tp_lab_1.csproj.GenerateResource.Cache
 C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\calculator_tp_lab_1\obj\Release\calculator_tp_lab_1.exe
 C:\Users\s.chyshkala\Desktop\calculator_tp_lab_1\calculator_tp_lab_1\obj\Release\calculator_tp_lab_1.pdb
+C:\Users\s.chyshkala\Desktop\prcts\SummerPract\calculator_tp_lab_1\calculator_tp_lab_1\bin\Release\calculator_tp_lab_1.exe.config
+C:\Users\s.chyshkala\Desktop\prcts\SummerPract\calculator_tp_lab_1\calculator_tp_lab_1\obj\Release\calculator_tp_lab_1.exe
+C:\Users\s.chyshkala\Desktop\prcts\SummerPract\calculator_tp_lab_1\calculator_tp_lab_1\obj\Release\calculator_tp_lab_1.pdb
